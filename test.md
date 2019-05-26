@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
+title: Test
 permalink: /test/
 ---
 
-Test 2 test 2 test 2
+Test test test.
