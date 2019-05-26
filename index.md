@@ -3,6 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
+title: Home
 ---
 Loona (stylized as **LOOΠΔ**) is a South Korean girl group formed by Blockberry Creative. Its twelve members were revealed in a periodic fashion, corresponding to their Korean name **Idarui Sonyeo** (이달의 소녀), which translates to "Girl of the Month".
 
