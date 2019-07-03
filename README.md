@@ -5,4 +5,4 @@
   </a>
 </p>
 
-A wiki for LOONA content! Compiled by [flamanta](https://github.com/flamanta). Built using the [Just the Docs](https://github.com/pmarsceill/just-the-docs) theme for GitHub Pages.
+A wiki for LOONA content! Compiled by [flamanta](https://github.com/flamanta). Built using [MkDocs](https://www.mkdocs.org/).
