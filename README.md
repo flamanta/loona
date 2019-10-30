@@ -25,7 +25,7 @@
 
 I was inspired by STAR-Zero さん's [LoveLive collection showcase](https://github.com/STAR-ZERO/LoveLive). I previously documented my collection of official LOONA merchandise on Amino, but the app was getting spammy so I uninstalled it.
 
-This is my second attempt to document my LOONA collection. By hosting it on a website via GitHub Pages, I get more control and flexibility over the display of the content through HTML and CSS.
+By hosting it on a website via GitHub Pages, I get more control and flexibility over the display of the content through HTML and CSS.
 
 ## What?
 
